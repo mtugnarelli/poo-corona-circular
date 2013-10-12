@@ -30,25 +30,26 @@ llamado centro, es menor o igual que una cantidad constante, llamada radio.
 Implementar la clase `CoronaCircular` que modele la figura geométrica plana delimitada por dos circunferencias 
 concéntricas. 
 
-![Corona Circular][corona circular]
+![Corona Circular][corona]
 
 #### Características:
 
 * Radio interior
 * Radio exterior
 * Diámetro
-* Perímetro interior
-* Perímetro exterior
 * Perímetro
 * Área
 
 ### Solución
 
-`CoronaCircular.java` [ver][ejercicio2]
+`Circulo.java` [ver][ejercicio2.circulo]
+
+`CoronaCircular.java` [ver][ejercicio2.corona]
 
 
 [circulo]: http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Disc_Plain_black.svg/120px-Disc_Plain_black.svg.png "Círculo"
-[corona circular]: http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Annulus.svg/120px-Annulus.svg.png "Corona Circular"
+[corona]: http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Annulus.svg/120px-Annulus.svg.png "Corona Circular"
 
-[ejercicio1]: ../master/src/Circulo.java
-[ejercicio2]: ../master/src/CoronaCircular.java
+[ejercicio1]: ../ejercicio1/src/Circulo.java
+[ejercicio2.corona]: ../ejercicio2/src/CoronaCircular.java
+[ejercicio2.circulo]: ../ejercicio2/src/Circulo.java
